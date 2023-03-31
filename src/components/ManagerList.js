@@ -8,16 +8,16 @@ function ManagerList() {
       <ul>
         <li>Manager 1</li>
         <button>
-          <Link to="/empList">Click</Link>
+          <Link to="/empList">Enter</Link>
         </button>
         <li>Manager 2</li>
         <button>
-          <Link to="/empListTwo">Click</Link>
+          <Link to="/empListTwo">Enter</Link>
         </button>
 
         <li>Manager 3</li>
         <button>
-          <Link to="/empListThree">Click</Link>
+          <Link to="/empListThree">Enter</Link>
         </button>
       </ul>
     </div>
